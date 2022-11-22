@@ -5,7 +5,7 @@
   "description": "Angular directives for sorting nested lists using the HTML5 Drag and Drop API",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marceljuenemann/angular-drag-and-drop-lists.git"
+    "url": "git+https://github.com/galabid/angular-drag-and-drop-lists.git"
   },
   "license": "MIT",
   "devDependencies": {
