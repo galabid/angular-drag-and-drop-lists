@@ -1,7 +1,7 @@
 {
   "name": "@galabid/angular-drag-and-drop-lists",
   "main": "angular-drag-and-drop-lists.js",
-  "version": "2.1.0",
+  "version": "3.0.1",
   "description": "Angular directives for sorting nested lists using the HTML5 Drag and Drop API",
   "repository": {
     "type": "git",
@@ -24,9 +24,9 @@
     "@galabid:registry": "https://npm.pkg.github.com"
   },
   "bugs": {
-    "url": "https://github.com/marceljuenemann/angular-drag-and-drop-lists/issues"
+    "url": "https://github.com/galabid/angular-drag-and-drop-lists/issues"
   },
-  "homepage": "https://github.com/marceljuenemann/angular-drag-and-drop-lists#readme",
+  "homepage": "https://github.com/galabid/angular-drag-and-drop-lists#readme",
   "directories": {
     "test": "test"
   },
